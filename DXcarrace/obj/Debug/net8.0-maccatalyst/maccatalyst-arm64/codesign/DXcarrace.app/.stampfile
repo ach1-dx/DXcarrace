@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/ach1/Documents/dx-212/DXcarrace/DXcarrace/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/ach1/Documents/dx-212/DXcarrace/DXcarrace/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/DXcarrace.app
